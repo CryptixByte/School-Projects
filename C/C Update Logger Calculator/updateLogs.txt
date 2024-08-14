@@ -1,0 +1,9 @@
+update 0.1 Currently created the calculator
+
+update 0.2 Currently made a log system
+
+update 0.3 Added Dynamic Memory Allocation on the Calculator Need help with figuring out how I could do so on the main function
+
+Update 0.5 I believe I have implemented Dynamic Memory Allocation
+
+Update 0.6 We forgot to mention update 0.4 it was a mystery. Actualwe were on 0.4 and dropped it as 0.5 so oh well regardless Dynamic Memory allocation works now? 
